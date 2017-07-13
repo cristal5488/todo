@@ -1,0 +1,27 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+
+h1 {
+  color:#EDC2E8;
+  font-family: serif;
+  font-size: 80px;
+  border-style: groove;
+  border-color: #D19DCA;
+}
+
+td {
+  margin-left: 10px;
+  color: #C172B2;
+  font-size: 20px;
+}
+
+th {
+  width: 50%;
+}
+.table {
+  border-style: solid;
+  border-color: #EDC2E8;
+  width: 50%;
+}
